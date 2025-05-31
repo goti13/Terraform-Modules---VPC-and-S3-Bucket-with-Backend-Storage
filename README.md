@@ -284,6 +284,7 @@ terraform {
 <img width="1375" alt="image" src="https://github.com/user-attachments/assets/5220e909-a2a0-4787-b671-298e4dad70f7" />
 
 
+![image](https://github.com/user-attachments/assets/daae55bc-c6ea-4cd1-856e-364240389212)
 
 
 
